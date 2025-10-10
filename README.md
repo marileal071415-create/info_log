@@ -6,3 +6,4 @@ Trabalhos e atividades sobre informática
 <img width="1919" height="1079" alt="Captura de tela 2025-09-19 190301" src="https://github.com/user-attachments/assets/9e8411e3-61e2-41da-86b7-0fc577e206d5" />
 ## atividade 3: dados NCM
 https://github.com/marileal071415-create/info_log/blob/main/0210NCM.xlsx2.xlsx
+<img width="1919" height="1027" alt="Captura de tela 2025-10-09 222747" src="https://github.com/user-attachments/assets/f96ebb39-00ea-4e05-8207-f3da7a2eb2de" />
