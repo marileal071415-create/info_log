@@ -1,4 +1,5 @@
 # info_log
+https://www.canva.com/design/DAGwLHaoJjk/Mq-Wb9sabFGkhU8idxs1-A/edit
 Trabalhos e atividades sobre informática
 
 ## atividade 1: apresentação em equipe no canvas
