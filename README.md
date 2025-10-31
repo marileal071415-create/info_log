@@ -15,4 +15,5 @@ https://github.com/marileal071415-create/info_log/blob/main/0210NCM.xlsx2.xlsx
 <img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/c87e49a9-fa25-44b7-b11d-0864271b107b" />
 
 ## atividade 5: Estados Inseridos no Power BI
+https://github.com/marileal071415-create/info_log/blob/main/power%20bi%20uf%20ESTADOS.pbix
 <img width="1914" height="995" alt="image" src="https://github.com/user-attachments/assets/b5be4818-ed85-4af6-8d28-97cf8b76921b" />
