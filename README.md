@@ -1,7 +1,8 @@
 # info_log
 Trabalhos e atividades sobre informática
 
-## atividade 1: apresentação em equipe no canvas
+## atividade 1: Apresentação em equipe no canvas
+Na primeira ativide, em parceria com os alunos Giovani, Maria Vitória e Samuel, elaboramos uma apresentação em slide no app CANVA, junto de um quiz no KAHOOT, onde com ambos, apresentamos os integrantes do grupo e nosso mapa mental sobre logística.
 https://www.canva.com/design/DAGwLHaoJjk/Mq-Wb9sabFGkhU8idxs1-A/edit
 <img width="1196" height="717" alt="Captura de tela 2025-09-19 190627" src="https://github.com/user-attachments/assets/dbbe17cc-eebd-4297-9ecc-88f4547859b8" />
 
