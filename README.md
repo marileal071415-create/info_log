@@ -23,6 +23,7 @@ https://github.com/marileal071415-create/info_log/blob/main/power%20bi%20uf%20ES
 <img width="1914" height="995" alt="image" src="https://github.com/user-attachments/assets/b5be4818-ed85-4af6-8d28-97cf8b76921b" />
 
 ## atividade 6: Ice Cream - Base de daos
+Usando os dados Ice Cream, copiei e inseri no excel, com a função "texto para colunas" ajustei as colubnas e as separei, com a funçao "substituir", substitui o . por , e inseri um gráfico dinâmico para melhor visualização, já np phyton/google colab, usando os dados, utilizei a IA do própiuo sistema para gerar códigos
 <img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/8058165e-761e-4fbb-b42c-66dc53b36dcd" />
 <img width="1871" height="887" alt="image" src="https://github.com/user-attachments/assets/4cb3ed96-05f8-4589-b1a3-4e4fcccae27c" />
 
