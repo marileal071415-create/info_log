@@ -27,5 +27,8 @@ https://github.com/marileal071415-create/info_log/blob/main/power%20bi%20uf%20ES
 <img width="1871" height="887" alt="image" src="https://github.com/user-attachments/assets/4cb3ed96-05f8-4589-b1a3-4e4fcccae27c" />
 
 ## atividade 7: Regressão linear de salário
+Com base nos dados inseridos no teams, copiei e inseri no excel, com a função "texto para colunas" ajustei as colubnas e as separei, com a funçao "substituir", substitui o . por , e inseri um gráfico dinâmico para melhor visualização, já np phyton/google colab, usando os dados, utilizei a IA do própiuo sistema para gerar códigos.
 https://github.com/marileal071415-create/info_log/blob/main/Salary%20Data%2007.csv
 https://github.com/marileal071415-create/info_log/blob/main/Untitled1.ipynb
+<img width="1621" height="953" alt="image" src="https://github.com/user-attachments/assets/5d0796d0-0e36-46d3-b231-d4ba4bb36334" />
+<img width="1898" height="938" alt="image" src="https://github.com/user-attachments/assets/a58b3a61-3b88-4e60-a7ce-04eed25075a0" />
