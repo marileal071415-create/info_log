@@ -28,3 +28,4 @@ https://github.com/marileal071415-create/info_log/blob/main/power%20bi%20uf%20ES
 
 ## atividade 7: Regressão linear de salário
 https://github.com/marileal071415-create/info_log/blob/main/Salary%20Data%2007.csv
+https://github.com/marileal071415-create/info_log/blob/main/Untitled1.ipynb
