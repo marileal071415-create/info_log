@@ -16,6 +16,7 @@ https://github.com/marileal071415-create/info_log/blob/main/0210NCM.xlsx2.xlsx
 <img width="1919" height="1027" alt="Captura de tela 2025-10-09 222747" src="https://github.com/user-attachments/assets/f96ebb39-00ea-4e05-8207-f3da7a2eb2de" />
 
 ## atividade 4: Power BI
+https://github.com/marileal071415-create/info_log/blob/main/info-aula-BI.pbix
 <img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/c87e49a9-fa25-44b7-b11d-0864271b107b" />
 
 ## atividade 5: Estados Inseridos no Power BI
