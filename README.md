@@ -12,15 +12,17 @@ https://github.com/marileal071415-create/info_log/blob/main/restaurante.xlsx
 <img width="1919" height="1079" alt="Captura de tela 2025-09-19 190301" src="https://github.com/user-attachments/assets/9e8411e3-61e2-41da-86b7-0fc577e206d5" />
 
 ## Atividade 3: dados NCM
-Plano de prdutos e exportações de dados do comex stat via excel.
+Plano de prdutos e exportações de dados do comex stat via excel, por meio deste, criamos uma tabela dinãmica para identificar dados específicos.
 https://github.com/marileal071415-create/info_log/blob/main/0210NCM.xlsx2.xlsx
 <img width="1919" height="1027" alt="Captura de tela 2025-10-09 222747" src="https://github.com/user-attachments/assets/f96ebb39-00ea-4e05-8207-f3da7a2eb2de" />
 
 ## Atividade 4: Power BI
+Extraindo os dados de exportaçãop do COMEX STAT de 2025, inserimos no POWER BI, o formatando visualmente em mapa e gráficos.
 https://github.com/marileal071415-create/info_log/blob/main/info-aula-BI.pbix
 <img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/c87e49a9-fa25-44b7-b11d-0864271b107b" />
 
 ## Atividade 5: Estados Inseridos no Power BI
+Em parceria com a aluna Laura Salles, retiramos os dados de expotação de 2025 do COMEX STAT, inserimos no POWER BI, e criamos gráficos e mapa de 5 estados do Brasil.
 https://github.com/marileal071415-create/info_log/blob/main/power%20bi%20uf%20ESTADOS.pbix
 <img width="1914" height="995" alt="image" src="https://github.com/user-attachments/assets/b5be4818-ed85-4af6-8d28-97cf8b76921b" />
 
