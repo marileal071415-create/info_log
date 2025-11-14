@@ -11,27 +11,27 @@ NA segunda atividade, com base nos dados do Comex Stat, na plataforma Excel, uti
 https://github.com/marileal071415-create/info_log/blob/main/restaurante.xlsx
 <img width="1919" height="1079" alt="Captura de tela 2025-09-19 190301" src="https://github.com/user-attachments/assets/9e8411e3-61e2-41da-86b7-0fc577e206d5" />
 
-## atividade 3: dados NCM
+## Atividade 3: dados NCM
 Plano de prdutos e exportações de dados do comex stat via excel.
 https://github.com/marileal071415-create/info_log/blob/main/0210NCM.xlsx2.xlsx
 <img width="1919" height="1027" alt="Captura de tela 2025-10-09 222747" src="https://github.com/user-attachments/assets/f96ebb39-00ea-4e05-8207-f3da7a2eb2de" />
 
-## atividade 4: Power BI
+## Atividade 4: Power BI
 https://github.com/marileal071415-create/info_log/blob/main/info-aula-BI.pbix
 <img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/c87e49a9-fa25-44b7-b11d-0864271b107b" />
 
-## atividade 5: Estados Inseridos no Power BI
+## Atividade 5: Estados Inseridos no Power BI
 https://github.com/marileal071415-create/info_log/blob/main/power%20bi%20uf%20ESTADOS.pbix
 <img width="1914" height="995" alt="image" src="https://github.com/user-attachments/assets/b5be4818-ed85-4af6-8d28-97cf8b76921b" />
 
-## atividade 6: Ice Cream - Base de daos
+## Atividade 6: Ice Cream - Base de daos
 Usando os dados Ice Cream, copiei e inseri no excel, com a função "texto para colunas" ajustei as colubnas e as separei, com a funçao "substituir", substitui o . por , e inseri um gráfico dinâmico para melhor visualização, já np phyton/google colab, usando os dados, utilizei a IA do própiuo sistema para gerar códigos
 https://github.com/marileal071415-create/info_log/blob/main/Ice%20Cream%20M%26M.xlsx 
 https://github.com/marileal071415-create/info_log/blob/main/Regress%C3%A3o_Linear_do_Sorvete.ipynb
 <img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/8058165e-761e-4fbb-b42c-66dc53b36dcd" />
 <img width="1871" height="887" alt="image" src="https://github.com/user-attachments/assets/4cb3ed96-05f8-4589-b1a3-4e4fcccae27c" />
 
-## atividade 7: Regressão linear de salário
+## Atividade 7: Regressão linear de salário
 Com base nos dados inseridos no teams, copiei e inseri no excel, com a função "texto para colunas" ajustei as colubnas e as separei, com a funçao "substituir", substitui o . por , e inseri um gráfico dinâmico para melhor visualização, já np phyton/google colab, usando os dados, utilizei a IA do própiuo sistema para gerar códigos.
 https://github.com/marileal071415-create/info_log/blob/main/Salary%20Data%2007.csv
 https://github.com/marileal071415-create/info_log/blob/main/Untitled1.ipynb
