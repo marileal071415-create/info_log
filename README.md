@@ -39,3 +39,6 @@ https://github.com/marileal071415-create/info_log/blob/main/Salary%20Data%2007.c
 https://github.com/marileal071415-create/info_log/blob/main/Untitled1.ipynb
 <img width="1621" height="953" alt="image" src="https://github.com/user-attachments/assets/5d0796d0-0e36-46d3-b231-d4ba4bb36334" />
 <img width="1898" height="938" alt="image" src="https://github.com/user-attachments/assets/a58b3a61-3b88-4e60-a7ce-04eed25075a0" />
+
+
+## PROVA ##
