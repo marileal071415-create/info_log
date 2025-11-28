@@ -42,3 +42,7 @@ https://github.com/marileal071415-create/info_log/blob/main/Untitled1.ipynb
 
 
 ## PROVA ##
+<img width="1904" height="982" alt="image" src="https://github.com/user-attachments/assets/79d9dff7-127d-41e1-99be-4cc5db8b2d6e" />
+<img width="1908" height="1034" alt="image" src="https://github.com/user-attachments/assets/ac8eb574-4bab-4ffb-bb01-456e510484fc" />
+
+
